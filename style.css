@@ -1,0 +1,42 @@
+ @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); 
+
+.div1{
+    background-color: green;
+    padding: 4px;
+    text-align: center;
+     margin-top: 10px;
+}
+
+.div2{
+    background-color: chocolate;
+     position: absolute;
+     width: 400px;
+     height: 600px;
+}
+
+.div3{
+    background-color: blue;
+    position: absolute;
+    left: 400px;
+    width: 530px;
+    height: 600px;
+}
+  /* .image{
+left: 100px;}
+*/
+.div4{
+    background-color: darkred;
+    position: absolute;
+    left: 930px;
+    width: 580px;
+    height: 600px;
+} 
+
+.footer {
+    background-color: pink;
+    position: relative;
+    top: 600px;
+    text-align: center;
+    padding: 20px;
+}  
+    
